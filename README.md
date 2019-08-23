@@ -20,3 +20,6 @@ Anyone can run/deploy this project: **KraftLadies** on [Google Cloud Run](https:
 
 *Prerequisites:*  
 *1. Should have a GCP Account with a test project to which Google Cloud Run will be attached*
+
+*Reference:*  
+*1. For more info on Cloud Run Button or implement it on your public repositories refer [here](https://github.com/GoogleCloudPlatform/cloud-run-button)*
