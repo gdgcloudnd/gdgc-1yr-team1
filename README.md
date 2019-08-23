@@ -11,3 +11,12 @@ Repo for Team 1 :: Event - Google Cloud Developer Community New Delhi
  4. Create a pull request.
 ![enter image description here](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png)
 5. Notify the organisers.
+
+
+## Run on Google Cloud
+Anyone can run/deploy this project: **KraftLadies** on [Google Cloud Run](https://cloud.google.com/run/) by clicking the bellow button.
+
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/gdgcloudnd/gdgc-1yr-team1.git)
+
+*Prerequisites:*  
+*1. Should have a GCP Account with a test project to which Google Cloud Run will be attached*
