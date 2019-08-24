@@ -12,7 +12,7 @@ Anyone can run/deploy this project: **KraftLadies** on [Google Cloud Run](https:
 *Reference:*  
 *1. For more info on Cloud Run Button or implement it on your public repositories refer [here](https://github.com/GoogleCloudPlatform/cloud-run-button)*
 
-**Get started:**
+## Get Started (for participants)
  1. Fork the repo to your account
  ![enter image description here](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
  2.  Then clone it from your account to start development.
